@@ -2,7 +2,7 @@
 
 **`Front-End Developer, JavaScript and React Enthusiast`**
 
-- 🔭 Currently working as a Front-End Developer at DOD(Dreamer Of Day) technology and design agency.
+- 🔭 Currently working as a Front-End Developer at DOD(Dreamers Of Day) technology and design agency.
 - 📫 How to reach me **haykak5@gmail.com**
 
 I am Hayk a Front-End Developer, JavaScript and React Enthusiast with Master Degree in Radio Engineering and Communication systems specialty. During my professional carrier I gained strong skills in Computer Science(CS), Front-End development using the following technologies and frameworks: HTML5, CSS3, SASS(SCSS), JavaScript(ES6+), jQuery, Tailwind CSS, Bootstrap, Materialize. I am also experienced in responsive web development and get started with React, Next.js and Progressive Web Apps(PWA).
